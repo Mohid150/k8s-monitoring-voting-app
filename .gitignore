@@ -1,0 +1,22 @@
+# Kubernetes
+*.log
+
+# Linux
+.DS_Store
+
+# Terraform
+.terraform/
+
+# VS Code
+.vscode/
+
+# Secrets
+*.pem
+*.key
+*.crt
+
+# Helm
+*.tgz
+
+# Env
+.env
